@@ -9,12 +9,12 @@ Proje kapsamında bize verilen 2 adet txt dosyasında bulunan şehir kodları ve
  
  Grafın bellekte tutulması için yaygın olarak kullanılanlar şunlardır: 
  
-•	Matris üzerinde 
+     •	Matris üzerinde 
 
-•	İki dizi üzerinde 
+     •	İki dizi üzerinde 
 
-•	Bağlantılı liste 
+     •	Bağlantılı liste 
 
-•	Dizili bağlantılı liste
+     •	Dizili bağlantılı liste
 
 
