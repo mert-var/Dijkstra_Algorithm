@@ -1,5 +1,4 @@
-# Dijkstra_Algorithm
- Dijkstra En Kısa Yol Algoritması
+# Dijkstra En Kısa Yol Algoritması
 
 # 1. Problemin Tanımı
 
