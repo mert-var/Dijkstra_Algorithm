@@ -6,7 +6,7 @@ Proje kapsamında bize verilen 2 adet txt dosyasında bulunan şehir kodları(se
 
 ### 2. Problemin Çözümü
  
- Grafın bellekte tutulması için yaygın olarak kullanılanlar şunlardır: 
+Graflar sayesinde bir şehrin diğer tüm diğer şehirlere olan mesafesini öğrenebiliriz. Bu sayede bu projede bizden istenen 2 problemin çözümüne de graflar sayesinde ulaşmış oluyoruz. Grafların bellekte tutulması için yaygın olarak kullanılan yöntemlerden bazıları şunlardır: 
  
    •	Matris üzerinde 
 
@@ -16,4 +16,4 @@ Proje kapsamında bize verilen 2 adet txt dosyasında bulunan şehir kodları(se
 
    •	Dizili bağlantılı liste
 
-
+Biz bu projede grafları matrisler üzerinde tutarak en kısa yolu bulmayı sağlıyoruz.
